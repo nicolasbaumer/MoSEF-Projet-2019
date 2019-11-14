@@ -12,3 +12,6 @@ echo $repertoire
 
 #Affiche les fichiers correspondant à l'entrée de l'utilisateur qui se situent dans le répertoire demandé
 ls $repertoire/$1
+
+#On affiche les fichiers contenant le mot saisi par l'utilisateur
+grep -il $2 $repertoire/$1
