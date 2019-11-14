@@ -1,5 +1,6 @@
 # MoSEF-Projet-2019
 Projet Master 2 MoSEF (U. Paris 1)
+Nicolas Baumer
 
 # Readme
 
