@@ -13,7 +13,7 @@ Bonjour, voici un court fichier explicatif du projet pour aider l'utilisateur à
 1) Placez vous dans le dossier contenant le fichier script search_fichiers.sh.
 
 2) Exécutez le fichier avec la commande : bash search_fichiers.sh. arg1 arg2 
-**arg 1** : fichier ou patternde fichier que vous voulez rechercher
+**arg 1** : fichier ou pattern de fichier que vous voulez rechercher
 **arg 2** : mot à rechercher dans les fichiers (non sensible à la casse)
 
 3) Entrez le chemin du dossier dans lequel vous voulez chercher (n'oubliez pas de mettre le chemin complet si vous ne cherchez pas dans le dossier courant)
